@@ -1,0 +1,1 @@
+This project showcases my work and skills through a personal portfolio website, featuring sections like Home, About, Projects, and Contact. Built with HTML, CSS, and JavaScript, it includes smooth scrolling navigation, a responsive layout, and a contact form. This portfolio highlights various projects and provides insight into my background, skills, and achievements.
